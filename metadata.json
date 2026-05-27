@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Meme Coin Bot",
+  "description": "Solana meme coin tracker integrated with DexScreener, Birdeye, GeckoTerminal, and RugCheck, with Telegram signal routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
